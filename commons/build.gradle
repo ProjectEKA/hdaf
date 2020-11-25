@@ -26,7 +26,7 @@ dependencies {
     compileOnly 'org.projectlombok:lombok'
     testCompileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
-    implementation 'org.jeasy:easy-random-core:4.2.0'
+    implementation 'org.jeasy:easy-random-core:5.0.0'
     implementation 'com.google.guava:guava:29.0-jre'
     implementation 'io.lettuce:lettuce-core:5.3.3.RELEASE'
     implementation 'net.logstash.logback:logstash-logback-encoder:6.4'

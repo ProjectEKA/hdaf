@@ -46,7 +46,7 @@ dependencies {
     }
     testImplementation 'io.projectreactor:reactor-test'
     testImplementation 'org.springframework.security:spring-security-test'
-    testImplementation 'org.jeasy:easy-random-core:4.2.0'
+    testImplementation 'org.jeasy:easy-random-core:5.0.0'
     testImplementation 'org.apache.commons:commons-lang3:3.11'
 
     implementation project(':commons')
