@@ -50,7 +50,7 @@ dependencies {
     implementation 'io.vavr:vavr:0.10.3'
     implementation 'org.passay:passay:1.6.0'
     implementation 'io.lettuce:lettuce-core:5.3.3.RELEASE'
-    implementation 'net.logstash.logback:logstash-logback-encoder:6.4'
+    implementation 'net.logstash.logback:logstash-logback-encoder:6.6'
     implementation 'org.springframework.data:spring-data-redis'
     testImplementation 'org.apache.commons:commons-lang3:3.11'
 
