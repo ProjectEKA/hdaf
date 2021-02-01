@@ -39,7 +39,7 @@ dependencies {
     testCompileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
     testImplementation 'org.jeasy:easy-random-core:4.2.0'
-    testImplementation "com.squareup.okhttp3:okhttp:4.8.1"
+    testImplementation "com.squareup.okhttp3:okhttp:4.9.1"
     testImplementation "com.squareup.okhttp3:mockwebserver:4.8.1"
     implementation 'com.google.guava:guava:29.0-jre'
     implementation 'io.jsonwebtoken:jjwt:0.9.1'
