@@ -42,7 +42,7 @@ dependencies {
     testImplementation 'io.projectreactor:reactor-test'
     testImplementation 'org.springframework.amqp:spring-rabbit-test'
     testImplementation 'org.springframework.security:spring-security-test'
-    implementation 'io.vertx:vertx-pg-client:3.9.2'
+    implementation 'io.vertx:vertx-pg-client:4.1.1'
     testImplementation 'org.jeasy:easy-random-core:4.2.0'
     implementation 'com.nimbusds:nimbus-jose-jwt:8.20'
     implementation 'io.lettuce:lettuce-core:5.3.3.RELEASE'
