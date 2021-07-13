@@ -33,7 +33,7 @@ dependencies {
     implementation 'org.springframework.data:spring-data-redis'
     testImplementation 'org.apache.commons:commons-lang3:3.11'
     implementation 'io.vertx:vertx-pg-client:3.9.2'
-    implementation 'com.nimbusds:nimbus-jose-jwt:8.20'
+    implementation 'com.nimbusds:nimbus-jose-jwt:9.11.1'
 }
 
 jacocoTestReport {

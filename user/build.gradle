@@ -36,7 +36,7 @@ dependencies {
     implementation 'com.google.guava:guava:29.0-jre'
     implementation 'io.jsonwebtoken:jjwt:0.9.1'
     implementation 'javax.xml.bind:jaxb-api:2.3.1'
-    implementation 'com.nimbusds:nimbus-jose-jwt:8.20'
+    implementation 'com.nimbusds:nimbus-jose-jwt:9.11.1'
     implementation 'io.vavr:vavr:0.10.3'
     implementation 'org.passay:passay:1.6.0'
     compileOnly 'org.projectlombok:lombok'

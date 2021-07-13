@@ -44,7 +44,7 @@ dependencies {
     testImplementation 'org.springframework.security:spring-security-test'
     implementation 'io.vertx:vertx-pg-client:3.9.2'
     testImplementation 'org.jeasy:easy-random-core:4.2.0'
-    implementation 'com.nimbusds:nimbus-jose-jwt:8.20'
+    implementation 'com.nimbusds:nimbus-jose-jwt:9.11.1'
     implementation 'io.lettuce:lettuce-core:5.3.3.RELEASE'
 
     implementation project(':commons')
